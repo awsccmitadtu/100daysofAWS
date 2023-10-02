@@ -1,4 +1,4 @@
-# Day 17 : Best Pratices for EC2 Combinations and Real-World Application Scenarios
+# Day 17 : Best Practices for EC2 Combinations and Real-World Application Scenarios
 
 Explore common real-world scenarios where AWS and EC2 are used:
 
